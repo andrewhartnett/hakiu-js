@@ -35,6 +35,6 @@ function haiku(a, b, c){
     return true;
   }
   
-  return {syllables: result};
+  return result;
   
 }
